@@ -2,3 +2,4 @@ first command executing with git
 this is the line added after cloned from git remote repository
 Testing newly created branch
 Testing newly created branch, named issue2
+testing issue3 branch
